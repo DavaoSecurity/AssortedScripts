@@ -1,4 +1,4 @@
-// Password cracker written in C++ by Nathan W Jones nat@davaosecurity.com
+// Password cracker written in C++ by Nathan W Jones nat@davaosecurity.com for ECE Credits
 // change to LF
 // loadPasswords: This function reads the passwords.txt file, which is expected to have lines in the format username:password. 
 // It stores the usernames and passwords in an unordered map for quick lookup.
