@@ -1,4 +1,4 @@
-# Malware checker using VirusTotal by Nathna W Jones nat@davaosecurity.com
+# Malware checker using VirusTotal by Nathna W Jones nat@davaosecurity.com for ECE Credits
 # change to LF
 # script uploads the file to VirusTotal and waits for a short period before retrieving the analysis report. 
 # Depending on the file size and VirusTotal's processing time, you may need to adjust the sleep duration.
