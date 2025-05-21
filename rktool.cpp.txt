@@ -1,3 +1,4 @@
+// Basic Rootkit hunter by Nathan W Jones nat@davaosecurity.com for ECE Credits
 // This code is a basic starting point and may not be effective against sophisticated rootkits. 
 // change from CRLF to LF   g++ -o rktool rktool.cpp     sudo chmod +x ./rktool.cpp   sudo ./rktool
 // getProcessList: This function reads the /proc directory to get a list of process IDs (PIDs). 
