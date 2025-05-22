@@ -1,3 +1,4 @@
+# Basic Rootkit hunter by Nathan W Jones nat@davaosecurity.com for ECE Credits
 # web scraper that gets all details about the web server, web app and OS. Output to a formatted HTML file
 # Requests Library: Used to send HTTP requests and receive responses.
 # BeautifulSoup: Used to parse the HTML content of the web page.

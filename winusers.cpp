@@ -1,4 +1,4 @@
-// find Windows users by Nathan W Jones nat@davaosecurity.com
+// find Windows users by Nathan W Jones nat@davaosecurity.com for ECE Credits
 // Include Necessary Headers: The code includes headers for Windows API functions and JSON handling.
 // Enumerate Sessions: The WTSEnumerateSessions function retrieves information about the sessions on the server.
 // Query User Information: For each session, it queries the user name and domain name using WTSQuerySessionInformation.

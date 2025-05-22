@@ -1,3 +1,4 @@
+// Basic Rootkit hunter by Nathan W Jones nat@davaosecurity.com for ECE Credits
 // g++ -o user_logon_info userlogon.cpp     sudo chmod +x ./userlogon.cpp ./userlogon
 // User Structure: A simple structure to hold user information, including the username, last logon time, and activity.
 // getUsers Function: This function reads the /etc/passwd file to get a list of users. Each username is stored in a User object.
